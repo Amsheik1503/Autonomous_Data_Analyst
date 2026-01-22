@@ -54,6 +54,22 @@ The **Planner Agent** orchestrates all agents dynamically based on data characte
 
 ---
 
+## 📸 Application Screenshots
+
+### Streamlit Application Interface
+![Streamlit UI](screenshots/streamlit_home.png)
+
+### ML vs DL Model Comparison
+![ML DL Table](screenshots/ml_dl_table.png)
+
+### Forecast Visualization
+![Forecast Plot](screenshots/forecast_plot.png)
+
+### Forecast with Confidence Intervals
+![Forecast CI](screenshots/forecast_with_ci.png)
+
+
+---
 ## 🧩 Agents Used in Final Pipeline (11 Agents)
 
 ### 1️⃣ EDA Agent (`eda_agent`)
