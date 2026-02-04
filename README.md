@@ -263,7 +263,6 @@ pip install -r requirements.txt
 * Demonstrates **Agentic AI system design**
 * Combines **ML, DL, and statistical modeling** in one pipeline
 * Production‑ready Streamlit deployment
-* Resume‑ready, interview‑defensible architecture
 
 ---
 
