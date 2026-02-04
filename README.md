@@ -278,4 +278,4 @@ pip install -r requirements.txt
 ## 👤 Author
 
 **[AMSHEIK S]**
-MSc Statistics | Data Science | Agentic AI Systems
+MSc Statistics | Data Analyst | Agentic AI Systems
